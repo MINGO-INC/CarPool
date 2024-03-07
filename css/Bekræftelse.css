@@ -1,0 +1,21 @@
+:root{
+    border-top: 12rem solid #EA3C12;
+
+}
+.flexbox1-container{
+
+}
+.flexbox1{
+
+}
+
+
+.picture1-item-1.transformed{
+    transform: translateY(-760px);
+
+}
+.flexbox1-item-1{
+    left: -100px;
+    height: 500px;
+
+}

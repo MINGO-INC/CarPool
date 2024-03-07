@@ -1,0 +1,18 @@
+:root{
+    border-top: 12rem solid #EA3C12;
+    #padding: 50px;
+    #margin: 20px;
+}
+.flexbox-container{
+    display: flex;
+    .title{
+        font-size: 6rem;
+    }
+}
+
+.flexbox-item-1{
+    position: relative;
+    width: 490px;
+    height: 193px;
+
+}
